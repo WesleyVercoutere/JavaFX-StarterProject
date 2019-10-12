@@ -1,0 +1,38 @@
+.menuBar {
+    -fx-font-size: 12px;
+    -fx-background-color: #3C3F41;
+    -fx-text-fill: #ffffff;
+}
+
+.footer {
+    -fx-font-size: 12px;
+    -fx-background-color: #3C3F41;
+    -fx-text-fill: #ffffff;
+}
+
+.borderPane {
+    -fx-font-size: 12px;
+    -fx-text-fill: #FFFFFF;
+    -fx-background-color: #2B2B2B;
+}
+
+.button {
+    -fx-background-color: transparent;
+}
+
+.button:hover {
+    -fx-background-color: #4F5254;
+}
+
+.windowButton {
+    -fx-border-radius: 0;
+    -fx-background-radius: 0;
+}
+
+.closeButton:hover {
+    -fx-background-color: red;
+}
+
+.closeButton:pressed {
+    -fx-background-color: #F1707A;
+}
